@@ -37,7 +37,7 @@ header {
     margin-left: 50px;
     width: 1200px;
     height: 700px;
-    background-image: url(./images/img-mission-background.webp);
+    background-image: url(./images/img-mission-background.jpg);
     display: flex;
     flex: 1;
     background-size: cover;
@@ -95,7 +95,7 @@ header {
 .locations {
     height: 550px;
     width: 1200px;
-    background: url(./images/img-locations-background.webp) no-repeat top right;
+    background: url(./images/img-locations-background.jpg) no-repeat top right;
     display: flex;
     justify-content: space-around;
     align-items: center;
